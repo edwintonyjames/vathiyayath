@@ -24,7 +24,12 @@
     padding-top: 30px;
     margin-bottom: 100px
 }
+.cropimg{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
 
+}
 .home1-care-section,
 .home1-service-section {
     background-image: url(../images/bg/bg-02.png);
