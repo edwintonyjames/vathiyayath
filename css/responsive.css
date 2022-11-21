@@ -96,7 +96,7 @@ body {
 
 @media(max-width:1200px) {
     .site-header.header-style-1 .site-branding img.logo-img {
-        display: none
+       transform: scale(110%);
     }
 
     .site-header.header-style-1 .site-header-menu {
