@@ -1113,8 +1113,13 @@ body {
         text-align: left
     }
 
-    .pbmit-static-box-style-1 .pbmit-contentbox-wrap .pbminfotech-static-box-desc {
-        display: none
+    .pbmit-static-box-style-1 {
+        opacity: 1 !important;
+        visibility: visbile !important;
+    }
+    .pbminfotech-static-box-desc{
+        opacity: 1 !important;
+        visibility: visible !important;
     }
 
     .pbmit-static-box-style-1 .pbmit-ihbox-icon-overlay {
