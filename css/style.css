@@ -15,14 +15,21 @@
     background-size: 1200px;
     padding-top: 130px
 }
-
+#slider-1-slide-7-layer-22{
+    margin-left: 10px;
+}
 .home1-about-us .list-wrap {
     margin-top: 20px;
     border-top: 1px solid #eee;
     padding-top: 30px;
     margin-bottom: 100px
 }
+.cropimg{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
 
+}
 .home1-care-section,
 .home1-service-section {
     background-image: url(../images/bg/bg-02.png);
@@ -293,7 +300,7 @@ h4.pbmit-fid-inner .pbmit-blackish-color {
     border-bottom: 1px solid #ffffff40 !important
 }
 
-.home3-Appoinment-section-bg {
+.home3-Appointment-section-bg {
     background: url(../images/bg/bg-14.jpg)
 }
 
